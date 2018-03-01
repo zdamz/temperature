@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+
+html
+{
+  font-family: 'Roboto', sans-serif;
+  background-color:#00796B ;
+}
+#temp
+{
+font-size:150px;
+text-align:right;
+
+}
+#reste
+{
+font-size: 25px;
+}
+#form
+{
+margin:auto 0;
+}
+#ville
+{
+  color:white;
+  font-size: 20px;
+}
+#jour
+{
+font-size: 30px;
+opacity:0.6;
+color:white;
+}
+.btn
+{
+border-radius:20px;
+color:white;
+}
+.input-field{
+display:flex;
+justify-content:center;
+flex-direction:column;
+}
