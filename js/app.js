@@ -11,7 +11,7 @@ $(document).ready(function(){
     if (city != '') {
       $.ajax({
         // récupération de l'api openweather  en appelant ajax via jquery
-        url:'http://api.openweathermap.org/data/2.5/weather?q=' + city + "&units=metric" + "&APPID=823a83cf247cdd9ade146e1512a88d70",
+        url:'https://api.openweathermap.org/data/2.5/weather?q=' + city + "&units=metric" + "&APPID=823a83cf247cdd9ade146e1512a88d70",
         type: "GET",
         dataType: "jsonp",
         // dans le cas de succès de la récupération; affichage des données météo correspondantes
