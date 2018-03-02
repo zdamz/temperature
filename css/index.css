@@ -4,18 +4,17 @@ html
 {
   font-family: 'Roboto', sans-serif;
   background-color:#00796B ;
+  color:white;
 }
 #temp
 {
 font-size:150px;
 text-align:right;
-color:white;
 
 }
 #reste
 {
 font-size: 25px;
-color:white;
 }
 #form
 {
@@ -23,21 +22,19 @@ margin:auto 0;
 }
 #ville
 {
-  color:white;
   font-size: 20px;
 }
 #jour
 {
 font-size: 30px;
 opacity:0.6;
-color:white;
 }
 .btn
 {
 border-radius:20px;
-color:white;
 }
-.input-field{
+.input-field
+{
 display:flex;
 justify-content:center;
 flex-direction:column;
