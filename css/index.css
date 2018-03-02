@@ -9,11 +9,13 @@ html
 {
 font-size:150px;
 text-align:right;
+color:white;
 
 }
 #reste
 {
 font-size: 25px;
+color:white;
 }
 #form
 {
@@ -39,4 +41,5 @@ color:white;
 display:flex;
 justify-content:center;
 flex-direction:column;
+
 }
