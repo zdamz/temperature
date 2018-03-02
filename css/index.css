@@ -8,9 +8,9 @@ html
 }
 #temp
 {
-font-size:10vh;
+font-size:13vh;
 text-align:right;
-/* padding-bottom:40px; */
+
 
 }
 #reste
@@ -40,5 +40,9 @@ color:#00796B;
 {
 display:flex;
 justify-content:center;
-flex-direction:column;
+/* flex-direction:column; */
+
+}
+#search{
+margin-bottom:2vh;
 }
