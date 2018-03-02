@@ -8,18 +8,8 @@ html
 }
 #temp
 {
-font-size:13vh;
-text-align:right;
-
-
-}
-#reste
-{
-/* font-size: 5vh; */
-}
-#form
-{
-margin:auto 0;
+  font-size:13vh;
+  text-align:right;
 }
 #ville
 {
@@ -27,22 +17,21 @@ margin:auto 0;
 }
 #jour
 {
-font-size: 30px;
-opacity:0.6;
+  font-size: 30px;
+  opacity:0.6;
 }
 .btn
 {
-border-radius:20px;
-background:white;
-color:#00796B;
+  border-radius:20px;
+  background:white;
+  color:#00796B;
 }
 .input-field
 {
-display:flex;
-justify-content:center;
-/* flex-direction:column; */
-
+  display:flex;
+  justify-content:center;
 }
-#search{
-margin-bottom:2vh;
+#search
+{
+  margin-bottom:2vh;
 }
